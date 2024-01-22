@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=rgKBjRLvjLs 
+¡Entrena a la IA con tu CARA! - 100% GRATIS Y SIN GPUs (Stable Diffusion y Dreambooth)
+
+
+https://colab.research.google.com/drive/1-HIbslQd7Ei_mAt25ipqSUMvbe3POm98?usp=sharing#scrollTo=1-9QbkfAVYYU
+NOTEBOOK COLAB - Entrenamiento Dreambooth
+
+
+Primeras pruebas, entrenando con mis fotos
