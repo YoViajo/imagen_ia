@@ -1,0 +1,6 @@
+https://github.com/akpythonyt/AKpythoncodes/blob/main/facerecoginition.py
+https://github.com/ageitgey/face_recognition
+
+The world's simplest facial recognition api for Python and the command line
+
+:: Prueba con mis fotos
