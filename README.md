@@ -11,6 +11,8 @@
 
 [Entrena a la IA con tu CARA](02/)
 
+[Implementación PyTorch de AnimeGANv2](05/animegan2_face2paint_v2.ipynb)
+
 [Hugging Face acaba de lanzar la biblioteca de difusores](03/)
 
 **GALERÍA**

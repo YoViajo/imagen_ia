@@ -1,0 +1,7 @@
+https://github.com/bryandlee/animegan2-pytorch
+
+PyTorch implementation of AnimeGANv2
+
+Prueba con mis fotografías de rostros
+
+<amb py>: img_env
