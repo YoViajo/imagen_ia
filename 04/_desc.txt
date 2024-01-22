@@ -1,0 +1,8 @@
+https://data-flair.training/blogs/python-face-recognition/
+Face Recognition with Python [source code included]
+
+
+Reconocimiento facial con Python
+    Prueba con mis fotos, detección de 6 personas (se incluye imágenes de entrenamiento)
+
+
