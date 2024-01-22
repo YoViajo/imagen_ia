@@ -11,4 +11,6 @@
 
 [Hugging Face acaba de lanzar la biblioteca de difusores](03/)
 
-[Galería de imágenes generadas con IA](galeria/)
+**GALERÍA**
+
+[Imágenes generadas con IA](galeria/)
